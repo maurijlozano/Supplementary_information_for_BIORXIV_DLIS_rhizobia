@@ -1,0 +1,11 @@
+# Supplementary information for: Identification and functional analysis of recent IS transposition events in rhizobia. By Mogro EG. et al 2024
+## Index
+1. **Figure S1:** COG functional analysis using only used the proteins with a DLIS insertion in the target genome, in that way, the complete sequence always corresponded to the reference genome which allowed us to avoid overcounting certain functions.
+
+COGs functional categories for all the genes interrupted by a DLIS were assigned with eggNOG-mapper. A. Distribution of DLIS interrupted genes by COG functional category. B. The heatmap was generated with a custom python script using seaborn. COG categorías are as follows. -: Not assigned; A: RNA processing and modification; B: Chromatin Structure and dynamics; C: Energy production and conversion; D: Cell cycle control and mitosis; E: Amino Acid metabolism and transport, F: Nucleotide metabolism and transport, G: Carbohydrate metabolism and transport; H: Coenzyme metabolism; I: Lipid metabolism; J: Translation; K: Transcription; L: Replication and repair; M: Cell wall/membrane/envelope biogenesis; N: Cell motility; O: Post-translational modi fication, protein turnover, chaperone functions; P: Inorganic ion transport and metabolism; Q: Secondary metabolites biosynthesis, transport and catabolism; R: General Functional Prediction only; S: Function Unknown; T: Signal Transduction; U: Intracellular trafficking and secretion; V: Defense mechanisms: W: Extracellular structures: X: Mobilome: prophages, transposons; Y: Nuclear structure; Z: Cytoskeleton.
+
+2. **Table S1**. Table S1.A: The accession numbers for the sequences used in this study. Table S1.B: Pairwise comparisons made with ISCompare to identify DLIS. Table S1.C: total number of IS in a determined genome estimated as the number of transposases plus the number of other genes annotated with functions related to insertion sequences. Table S1.D: Average IS counts per genus. Table S1.D. Average IS counts per replicon.
+
+3. **Table S2**. ISCompare results. A. DLIS per replicon. B. Proportion of active DLIS
+
+4. **Table S3**. DLIS Locations. A. DLIS location classification in _intergenic_,_within gene_, _operon_, _promoter region_. B. List of all interrupted genes. C. List of genes that were interrupted in strains that were not used as reference.
